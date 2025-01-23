@@ -1,0 +1,24 @@
+# Hierarchies and markets and biscuit tins and biscuits
+
+So the social media challenge for today was talk about my new idea - biscuit tins and biscuits - in terms of a book that I'd already read.  And also, to do it with a resigned attitude.
+
+The book I'm going to talk about is Hierarchies and Markets by Oliver Williamson. Williamson's idea is that hierarchical organisations are far more resilient in the face of risks that markets.
+
+The fact that they're resilient to risks means that they're more efficient, and this is why large organisations form. It's also why some kinds of tasks can only be taken on by the biggest kinds of organisation - the state.
+
+One result of working in an organisation - rather that working in a market, i.e. freelance - is that people in an organisation spend their time talking "organisation" language. They don't work on the "edges" of the organisation that actually deal with the organisation's customers, or products, or raw materials. This means that what the organisation does - whether it's selling burgers, writing software or collectiong (and spending) taxes isn't most of what the actually what the organisation does. 
+
+It's even weirder than that though. Because if everybody in the organisation *did* work in service of the "edges," i.e. they just made burgers or collected taxes, rather than working in HR and concentrating on moving up a hierarchy and office in-fighting, Williamson's point is that *that* organisation would be weaker!
+
+So here's the resigned attitude. Hierarchies are in some really imporant sense *better* than markets for weathering storms and being efficient at getting things done.
+
+And there's something similar going on with the Biscuit tin and the Biscuit. It's tempting to think about the difference between the idea and the reality (the biscuit tin and the biscuit) and think that the biscuit (the reality) is what we should be concentrating on. Rather than the biscuit tin - the description. 
+
+But "Biscuit tin language" has to be what gets bandied around inside organisations (those same hierarchies). Biscuit tin language will be what gets you money to do a project. But at some point it has to connect to the biscuit, the real thing foodstuff that goes off it's not stored properly, has to contain only ingredients that don't kill people and has to taste good. And like in hierarchies and markets, this is always going to be an awkward boundary. There's always going to be a temptation to not take enough care of it.
+
+There's nothing you can do about most of this - and there really isn't anything you *should* do differently about a lot of it. But there are key points where you need to talk in terms of "Market language" - i.e. what the customers want. And also "biscuit language" - what the product actually does, what it needs to actually perform. 
+
+In software you need to get the people who are going to eat the biscuit to try the various prototypes all the way through the process. And on the way, you need to educate the business about what the biscuit needs.
+
+## References
+Williamson, Oliver E. Markets and Hierarchies: Analysis and Antitrust Implications. New York: Free Press, 1975.
