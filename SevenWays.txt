@@ -1,0 +1,15 @@
+# Seven helpful ways of seeing software development projects
+
+1. Streams - the value stream in a software development project hasn't been built. Part of the work of the project is to figure out which steps need to go in which order to produce value.
+
+2. Pirate ships - problems pop up like pirate ships on the horizon. They're heading toward you, and you need to deal with them. 
+
+3. Car - controlling a project is - at least in some ways - like driving a car. You need transparency - you need to be able to see out of the mirrors and the windscreen. You need to actually look at the mirrors and through the windscreen - inspection. And you need to change what you do because of what you see - adapation.
+
+4. Escape - software need to make it into the outside world. It needs to escape into the hands of users. Even if you don't make it first time, you learn about the obstacles that are stopping you. If the software does connect with users, they can completely change the dynamic of a project, they can "pull" the software out of the organisation. 
+
+5. Swamp - the places where software development projects happen are complex spaces. There are people who live there, there are people who don't live there but regulate what's going on there. There is unique fauna and flora. Developing software in these environments is like trying to build in a swamp. It isn't enough to just do what you were asked to do - you have to figure out how to do it in this particular complex environment - a particular and unique swamp.
+
+6. Bet - all projects are bets - there's a none zero chance of them failing. So much of what goes on in "project management" is actually just variations on a theme of covering this up. Whatever project you're working on, no matter how well it looks like it's going - there's still a chance it could fail. 
+
+7. Not a bet - some projects aren't bets at all. Some projects have so many crazy things going on with them, that they aren't bets any more. They're just absolutely certain to fail.
